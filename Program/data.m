@@ -1,0 +1,34 @@
+viva=S2.viva
+viva=S2.Viva
+viva=(S2.Viva,S2.Sessional1)
+viva=S2.Viva
+sessional1=S2.Sessional1
+sessional2=S2.Sessional2
+Lab=S2.LabReport
+lab=S2.Lab Report
+lab=S2.Lab Reports
+lab=S2.LabReports
+total1=S2.Total(20)
+total=S2.Total20
+total2=S2.Total15
+S2(1:5;1:5)
+S2(1:5,1:5)
+mean=mean(S2.Total20)
+mean_sessional1=mean(S2.Sessional1)
+Mea=mean(sessional1)
+vararince=var(total)
+mean_S1=mean(sessional1)
+mean_Total2=mean(total2)
+mean(total2)
+varaince_S1=var(total2)
+var(sessional1)
+var(sesional2)
+var(sessional2)
+var(viva)
+var(lab)
+std(viva)
+std(sessional1)
+std(total)
+std(sessional2)
+std(lab)
+std(total2)
