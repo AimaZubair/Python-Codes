@@ -1,2 +1,2 @@
-# python-codes
+# Python-Codes
 Some basic python codes...
